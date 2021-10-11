@@ -1,0 +1,15 @@
+img{
+    width: 100%;
+  }
+
+  section{ text-align: center;
+    width:500px;
+  margin-left: 500px;
+   
+    margin-top:30px ;
+    background-color: cornflowerblue;}
+
+
+    .AddTask{padding-top: 10px;}
+
+    .listTask{margin-top: 20px;}
